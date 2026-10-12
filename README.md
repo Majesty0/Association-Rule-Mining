@@ -1,4 +1,4 @@
-```markdown
+
 # Market Basket Analysis Using Association Rule Mining (Apriori)
 
 **Student Name:** Kyeremateng Martin  
@@ -6,7 +6,6 @@
 **Module:** DSA 4060A – Recommender Systems  
 **Dataset:** `Groceries_dataset.csv` (38,765 transactional rows, 167 unique items)
 
----
 
 ## Project Overview
 This repository contains a full end-to-end implementation of **Association Rule Mining** using the **Apriori Algorithm** to analyze retail purchasing behavior. The main objective is to discover hidden purchasing patterns, extract high-lift product bundles, and propose data-driven merchandising strategies to maximize retail sales.
